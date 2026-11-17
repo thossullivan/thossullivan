@@ -6,6 +6,7 @@ Fifteen years turning enterprise data and AI from strategy into shipped, governe
 
 ## Built
 
+- **[kew](https://github.com/thossullivan/kew)**: The open-source control plane for autonomous coding agents. Agents turn labelled issues into pull requests, and a change never defines its own proof. kew's agents opened 1,156 of the 1,615 pull requests merged into kew itself. `uv tool install kew-cli`
 - **[model-eol](https://github.com/thossullivan/model-eol)**: A machine-readable deprecation feed format for AI models, and the zero-dependency Dependabot-for-models that runs on it. `npx model-eol . --days 90`
 - **[adaptive-academy](https://github.com/thossullivan/adaptive-academy)**: A local-first learning app. The tutor won't give you the answer until you've tried.
 
